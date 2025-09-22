@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+asdasdsadasd<<<<<<< HEAD
 # finger_print_sensor
 
 A new Flutter project.
